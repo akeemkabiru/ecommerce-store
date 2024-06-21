@@ -1,0 +1,39 @@
+An ecommerce store
+Redux
+React icons
+React spring and framer motion
+Golang
+Sqlite DB
+
+FEATURES
+
+Authentication and Authorization:
+
+User registration
+User login/logout
+Password reset functionality
+User profile management
+Product Catalog Management:
+
+Display list of products with pagination
+
+Product filtering (by category, price range, etc.)
+Product search functionality
+Product detail pages with images, descriptions, reviews, and related products
+Shopping Cart and Checkout:
+
+Add/remove products to/from cart
+
+Adjust product quantities in cart
+Display cart summary and total price
+Proceed to checkout process
+Shipping address and payment method selection
+Order confirmation and summary
+User Account Dashboard:
+
+Order history and status tracking
+
+Manage shipping addresses
+Manage payment methods
+Wishlist functionality
+
